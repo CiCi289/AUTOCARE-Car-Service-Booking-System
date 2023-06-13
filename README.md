@@ -1,9 +1,12 @@
 # About "AUTOCARE-Car-Service-Booking-System"
 This business project aims to develop a database-driven online booking system for a car service center called AutoCare. 
+
 This project is focused on addressing and solving problems faced by AutoCare, such as insufficient garage space, long queueing times, dissatisfaction with services, and a paper-based system that hampers productivity.
 
 The proposed system scope includes designing a dynamic website where customers can book various car services offered by AutoCare. 
+
 The proposed system website will allow customers to create user accounts, register their vehicles, book service appointments, choose the type of payment, track the progress of their services, and provide feedback and ratings. 
+
 Additionally, the system will include administration functions for managing bookings, customer and vehicle information, services, and service ratings.
 
 By implementing the proposed system, AutoCare aims to reduce queueing and waiting times, improve service quality and customer satisfaction, streamline booking management, and expand its services to more areas. 
@@ -24,9 +27,14 @@ The project is concluded with Client Evaluation and Achievement checklist.
 
 # To get started with viewing
 In Database folder, there will be MSSQL related .ldf and .mdf files, which you can import into your MSSQL server. 
+
 As this project had to be developed with manual SQL Queries, AutoCareSQL.sql file include all the queries to Create tables with necessary restraints, Insert data into tables, Update tables and SQL Queries for necessary reports for our system. 
+
 For ease of view, i will include a .md file with all SQL Queries. 
+
 The whole project is documented and convered to .pdf file. For Confidential information matters, some front cover pages including private information were removed before uploading. 
+
 Thank you!
+
 
 ©2022-2023 Copyright Ci Htin Aung / CiCi289
