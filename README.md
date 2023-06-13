@@ -10,9 +10,13 @@ By implementing the proposed system, AutoCare aims to reduce queueing and waitin
 
 # Project Process
 First, I started with Project Proposal. For project proposal, the background of AUTOCARE,their current process, current problems, Proposed system for current problems, Aims and objects of project, project management planning (including Gantt Charts, Milestone planning, Work Breakdown Structure, Progress Management, Risk management) were done first. 
+
 Second, necessary literature review about Databases are described, comparing and choose a RDBMS is done, and methodologies are compared and chosen. Then, case studies on business with similar problems are done. 
+
 Thirdly, once necessary RDBMS and methodologies are chosen, Feasibility analysis on Social, Technical, Cost-Benefit are done and decided No-GO, GO decisions. 
+
 Once Go decision is permitted, database is designed and implemented from Conceptual to Physical stages, quries neessary for reports are written and Data Dictionary is provided. 
+
 Lastly, Low to High fidelity prototypes are designed. As low fidelity protoypes are drafted on paper, its images will not be included here, instead high fidelity designs done in Figma will be shown in a folder.
 
 Once necessary database with essential reports and prototypes are firstly designed for our proposed system, the overall project is evaluated with related stakeholers with matrixes and necessary changes were made.
