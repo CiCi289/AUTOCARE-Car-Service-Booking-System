@@ -8,9 +8,11 @@ The proposed system scope includes implementations where customers can book vari
 
 The proposed system will allow customers to create user accounts, register their vehicles, book service appointments, choose the type of payment, track the progress of their services, and provide feedback and ratings. 
 
-Additionally, the system will include administration functions for managing bookings, customer and vehicle information, services, and service ratings.
+Additionally, the system will include administration functions for managing bookings, customer and vehicle information, services, service ratings and comments.
 
 By implementing the proposed system, AutoCare aims to reduce queueing and waiting times, improve service quality and customer satisfaction, streamline booking management, and expand its services to more areas. 
+
+In short, the booking system aims to replace labor intensive, productivity harming traditional methods with database-driven, easier to use system that will streamline and improve AutoCare's service management and customer experience.
 
 # Project Process
 First and foremost, I started with Project Proposal. For project proposal, the background of AUTOCARE,their current process, current problems, Proposed system for current problems, Aims and objects of project, project management planning (including Gantt Charts, Milestone planning, Work Breakdown Structure, Progress Management, Risk management) were planned out first. 
