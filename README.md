@@ -36,6 +36,7 @@ As this project had to be developed with manual SQL Queries, AutoCareSQL.sql fil
 For ease of only viewing SQL Queries, i will include a .md file with all SQL Queries. 
 
 The whole project is documented and convered to .pdf file. For Confidential information matters, some front cover pages including private information were removed before uploading. 
+Here is the figma file link to view UI Prototypes of AUTOCARE: https://www.figma.com/file/TsohuXLidbsSzOn4WyFmfA/AUTOCARE-Booking-System-Prototype-Test?type=design&node-id=0%3A1&mode=design&t=K4Qq8K8ZSLOGCxwh-1
 
 Thank you!
 
